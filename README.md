@@ -2,7 +2,7 @@
 
 A python script to download the full CSB Bible from https://read.csbible.com/ and save it to a text file.
 
-You can download the pre-generated file here:
+You can download the pre-generated file [here](CSB_Full_Bible.txt).
 
 ## Usage
 
