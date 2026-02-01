@@ -7,7 +7,10 @@ env/
 build/
 dist/
 *.spec
-**/.vscode/
+.vscode/
+*.swp
 TODO.txt
 TODO.md
 TODO
+src/csb_xml_files/
+src/CSB_Full_Bible.txt

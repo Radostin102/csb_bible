@@ -216,7 +216,7 @@ class BibleParser:
                 logger.error("No content was written to the file! Check XML parsing.")
             else:
                 self.console.print(f"[bold green]SUCCESS![/bold green] Full Bible saved to: [bold]{self.config.output_file}[/bold]")
-                logger.info(f"Conversion took {elapsed:.2f} seconds.")
+                logger.info(f"Conversion took {elapsed:.2f} s")
 
         except IOError as e:
             logger.error(f"Error writing final file: {e}")
